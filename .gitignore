@@ -5,6 +5,7 @@ __pycache__/
 
 # Large Dataset & Model Pickle Files (prevents GitHub upload errors)
 *.pkl
+!movies2.pkl
 *.pickle
 *.csv
 

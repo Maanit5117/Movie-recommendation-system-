@@ -1,0 +1,32 @@
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Dataset & Model Pickle Files (prevents GitHub upload errors)
+*.pkl
+*.pickle
+*.csv
+
+# Streamlit Configuration Files
+.streamlit/
+config.toml
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+bin/
+include/
+lib/
+share/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
